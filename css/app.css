@@ -1,0 +1,42 @@
+.jumbotron {
+    padding-top: 140px;
+    padding-bottom: 50px;
+}
+
+.card-deck {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.search_notice {
+    padding-top: 100px;
+}
+
+.error {
+    color: red;
+}
+
+.roomsResult {
+    padding-bottom: 40px;
+}
+
+.success {
+    color: green;
+}
+
+.tooltip {
+    opacity: 90;
+}
+
+#ex2 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#calendar {
+    background-color: white;
+}
+
+.text-justify {
+    text-align: justify;
+}
